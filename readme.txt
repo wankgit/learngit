@@ -7,3 +7,4 @@ modify another line  append GPL
 modify redeme.txt file
 
 Git tracks changes.
+Git tracks many changes.
